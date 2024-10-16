@@ -96,6 +96,7 @@ Step14. click on debug and simulate using simulation as shown below
   
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -200,11 +201,11 @@ void assert_failed(uint8_t *file, uint32_t line)
   
 }
 
+```
 
 
 
-
-## Output screen shots of proteus  :
+## output screen shots of proteus  :
 ![image](https://github.com/user-attachments/assets/18d40da3-2dec-4daa-9505-b2cef1c9a733)
 
  
